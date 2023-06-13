@@ -14,5 +14,5 @@ The objective here is to use my data analysis techniques to draw some insights f
 Insights 
 * Almost 42% of the payments are made by Cash on delivery(COD).
 * In the month of September even though the order quantity is more the profits earned in that month are less when compared to the profits earned in the month of October where the order quantity is low compared to September,
-  here it may be the reason that most of the orders placed were not so in demand products where the cost of that product will be usually high leading to fewer profits, whereas for the month of October may be any Sale might be organized leading to more profits. 
+  here it may be the reason that most of the orders placed were not so in demand products where the cost of that product will be usually high leading to fewer profits, whereas for the month of October may be any Sale might be organized or maybe good sales of certain products led to more profits. 
 
